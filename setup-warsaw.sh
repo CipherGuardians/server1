@@ -29,7 +29,7 @@ cat > /etc/sing-box/config.json <<EOF
     {
       "type": "shadowsocks",
       "tag": "out-ss",
-      "server": "5.188.3.195",
+      "server": "5.188.39.161",
       "server_port": 2443,
       "method": "2022-blake3-aes-256-gcm",
       "password": "xAYjIaKCAGJhrDV9VM8XyOGStn80lt0h4Q8jsXhvV2I="
